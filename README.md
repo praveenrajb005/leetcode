@@ -31,8 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/praveenrajb005/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/praveenrajb005/leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/praveenrajb005/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## String
+|  |
+| ------- |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/praveenrajb005/leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 <!---LeetCode Topics End-->
