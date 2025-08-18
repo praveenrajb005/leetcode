@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/praveenrajb005/leetcode/tree/master/0141-linked-list-cycle) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/praveenrajb005/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -55,8 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/praveenrajb005/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/praveenrajb005/leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/praveenrajb005/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/praveenrajb005/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
