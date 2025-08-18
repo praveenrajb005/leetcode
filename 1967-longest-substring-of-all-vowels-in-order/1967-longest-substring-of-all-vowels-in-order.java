@@ -18,6 +18,7 @@ class Solution {
                 else{
                     ind=i;
                     set.clear();
+                    if(ch[i]<ch[i-1])
                     set.add(ch[i]);
                 }
             }
