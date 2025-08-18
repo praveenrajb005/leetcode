@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/praveenrajb005/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praveenrajb005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/praveenrajb005/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praveenrajb005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -25,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praveenrajb005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/praveenrajb005/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/praveenrajb005/leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
