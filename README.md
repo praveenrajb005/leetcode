@@ -69,5 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/praveenrajb005/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/praveenrajb005/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/praveenrajb005/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
