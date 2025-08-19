@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/praveenrajb005/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/praveenrajb005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/praveenrajb005/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/praveenrajb005/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/praveenrajb005/leetcode/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [2432-number-of-zero-filled-subarrays](https://github.com/praveenrajb005/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 <!---LeetCode Topics End-->
